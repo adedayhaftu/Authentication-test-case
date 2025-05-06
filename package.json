@@ -1,0 +1,23 @@
+{
+  "name": "authentication-test-case",
+  "version": "1.0.0",
+  "description": "",
+  "main": "signin.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/adedayhaftu/Authentication-test-case.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/adedayhaftu/Authentication-test-case/issues"
+  },
+  "homepage": "https://github.com/adedayhaftu/Authentication-test-case#readme",
+  "devDependencies": {
+    "jest": "^29.7.0"
+  }
+}
